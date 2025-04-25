@@ -1,1 +1,5 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+h1 p {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
